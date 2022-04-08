@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#Comentario para prueba de github
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ProjectDjango.settings')
