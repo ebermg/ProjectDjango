@@ -3,7 +3,7 @@
 import os
 import sys
 
-#Comentario para prueba de github
+#Comentario para prueba de gitkraken
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ProjectDjango.settings')
